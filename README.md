@@ -92,6 +92,7 @@ Codebase for Vision 2.0 - Computer Vision based event organized by Robotics Club
 5. Then, <b>BFS</b> (<i>Breadth First Search</i>) is used to determine the all possible paths from the current position to the next destination. Among the paths secured, one with minimum length is considered for traversal <br>
 6. Two <b>vectors</b> are created providing the positions, along with the angles, of the bot and the destination grid. Various custom-made functions, such as <code>dist()</code>, <code>ang()</code>, <code>rotate()</code> and <code>move()</code>, are employed in order to facilitate the movement of the bot. <br>
 7. After the bot crosses the first grid, the <i>graph edges are altered</i> in a way that the bot enters the home after completion of a clockwise round and doesn't retrace the previous path.The task is completed after the bot reaches the central home grid.<br>
+8. Video of the run is provided in the repository <br>
  
 </body>
 </html>
