@@ -1,6 +1,3 @@
-# Vision2.0
-Codebase for Vision 2.0 - Computer Vision based event organized by Robotics Club of IIT (BHU) Varanasi (Work In Progress)
-
 <html>
 <body>
     
